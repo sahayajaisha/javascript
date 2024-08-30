@@ -5,7 +5,7 @@ let lastElement = arr[arr.length-1];
 console.log(firstElement)
 console.log(lastElement)
 
-H//ow do you add an element to the end of an array?
+//How do you add an element to the end of an array?
 let arr = [ 1,2,3,4,5];
 arr.push(6);
 console.log(arr)
